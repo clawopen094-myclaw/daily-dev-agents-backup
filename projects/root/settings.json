@@ -1,0 +1,47 @@
+{
+  "tasteOnboarding": {
+    "learnedSessions": {
+      "claude-code": [
+        "02a37143-d40f-4617-9324-bb741518078a",
+        "07e8bbe1-6e66-44b0-bf0b-ac5cc0b2e9ae",
+        "1ec03067-071e-4d25-94eb-a44040268ebc",
+        "216d5c81-a98b-41fa-a90c-b6f0481c6985",
+        "230746c7-9635-4fbf-b1fb-94763be21d6b",
+        "241b96a6-8c58-43c3-884b-79ae5494477a",
+        "250cadf9-ad04-4aef-8fd9-6c380a87d5a4",
+        "302829af-1b08-4626-8b64-7e7648c5fa83",
+        "34bb37f9-1cea-4d76-b102-43bc8d1577f2",
+        "3a04b5c8-3f84-4bbc-bef0-4f894ff17278",
+        "3e3d5baa-1e37-4d31-83d1-bb0331a46b8f",
+        "3e6d0677-ddc4-4f07-aad4-478706436045",
+        "579a451c-0235-449f-978a-dd1154644c9c",
+        "68517e81-78e2-45cd-9716-63dc53338bbd",
+        "6e792d5d-f0dd-43a1-9e6f-5a3eee78ba53",
+        "80e7725f-2f0b-4dec-8a3c-74fcd52864b7",
+        "83ff1c68-ca66-4db3-b37c-847b01b4c32a",
+        "894f66db-4411-4d95-85f5-fce4577805f3",
+        "a15b8596-c07f-4f13-af2f-937b3b3594a5",
+        "afae7410-3c14-464a-9679-ad31e81c1fa6",
+        "b3f57452-abd1-43ca-b49e-56ec46794335",
+        "b5186a2c-ad61-4b77-9672-a81aa262dc77",
+        "cac5db82-9e6c-4336-bff2-1067600d4fb2",
+        "cdea9037-b58f-4235-ba13-51e2c67ad33f",
+        "d14e3df8-203f-4251-9290-ed54a8205066",
+        "d1a2a7da-10ca-4de0-aa38-667e5b773be2",
+        "d2a9fbf7-cc9e-41c0-babb-d08f51cd7a2e",
+        "d3fdf95a-6110-4c0d-a3d3-fdbb8b1718da",
+        "d66e556c-e5da-4f52-bc38-33072725d75c",
+        "e8cca4de-ca32-4480-b29b-33856520914e",
+        "e9d30f56-46c9-4646-98d4-5ff68622ed5d",
+        "ea339d33-924e-4624-8118-2b20acd18d28",
+        "ea99a441-4d4c-4510-8400-eebf668325b1",
+        "ef07a625-4892-4d67-82ec-8325ebb4cfc8",
+        "efa08192-d5a2-44eb-b986-474d9c5ea7ed",
+        "f983910b-c9e9-479f-886d-0b9527a2e647",
+        "fc5c95ec-a7e3-4ef9-9927-86a07586088b"
+      ]
+    },
+    "lastLearningDate": "2026-05-25T14:50:13.172Z",
+    "completed": true
+  }
+}

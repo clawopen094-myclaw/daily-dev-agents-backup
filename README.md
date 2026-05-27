@@ -1,0 +1,11 @@
+# Daily Dev Agents Backup
+
+Automated daily backup of `~/.commandcode` (Command Code / cmd CLI data).
+
+**Last backup:** 2026-05-26 05:34 UTC
+
+## Included
+- Agent configuration & profiles
+- Authentication state
+- Agent session data
+- All non-media files
