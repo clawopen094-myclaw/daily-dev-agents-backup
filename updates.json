@@ -1,6 +1,10 @@
 {
   "autoUpdate": true,
-  "lastCheckedAt": 1779737573198,
+  "lastCheckedAt": 1780024603613,
   "checkIntervalMs": 3600000,
-  "pending": null
+  "pending": {
+    "targetVersion": "0.29.0",
+    "currentVersion": "0.28.1",
+    "detectedAt": 1780024603613
+  }
 }
